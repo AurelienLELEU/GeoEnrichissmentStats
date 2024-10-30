@@ -9,7 +9,7 @@ import configparser
 
 # Load configuration
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("./config.ini")
 
 DB_CONFIG = {
     "host": config["database"]["host"],
