@@ -1,0 +1,8 @@
+sexe,civilité,prenom,nom,complement_nom,adresse,complement_adrs,lieu_dit,num_voie,bis_ter,type_voie_court,type_voie_long,lib_voie,cp,ville,id_client,pays,email,tel,codegeo
+M,M,Kilian,Chappelle,,5 rue du moulin,,Longeray-Gare,5,,r,rue,du moulin,01500,Ambérieu-en-Bugey,01,FR,k.c@gmail.com,0606060606,010040102
+M,Mme,Benjamin,Godin,,7 rue michel ange,,Les Pérouses-Triangle d'Activités,7,,r,rue,michel ange,01500,Ambérieu-en-Bugey,02,FR,k.c@gmail.com,0707070707,010040102
+F,Mme,Léa,Durand,,2 rue des Charmes,Bâtiment A étage 1,Quartier Bellevue,2,bis,r,rue,des Charmes,01250,Ceyzériat,03,FR,lea.durand@gmail.com,0612345678,010720000
+M,M,Léon,Durand,,3 rue des Charmes,Bâtiment A étage 1,Quartier Bellevue,3,,r,rue,des Charmes,01250,Ceyzériat,04,FR,,,010720000
+M,M,Lucas,Durand,,4 rue des Charmes,Bâtiment A étage 1,Quartier Bellevue,4,,r,rue,des Charmes,01250,Ceyzériat,05,FR,,,010720000
+F,M,Olivier,Lefevre,,10 rue de la Paix,Appartement 3B,Centre,10,,r,rue,de la Paix,01220,Divonne-les-Bains,06,FR,olivier.lf@gmail.com,0654321098,011430101
+NA,M,Étienne,Dubois,,6 allée des Chênes,,Nord-Ouest,6,,all,allée,des Chênes,01220,Divonne-les-Bains,07,FR,etienne.db@gmail.com,0667890123,011430102
